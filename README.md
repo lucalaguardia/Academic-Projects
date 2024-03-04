@@ -1,1 +1,1 @@
-# PoliTO
+# Academic Projects
