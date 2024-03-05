@@ -1,9 +1,9 @@
 # Academic Projects
 This repository aims to be a portfolio consisting of the main university assignments I worked on during my master's degree in Aerospace Engineering at the Politecnico di Torino.
-[Contribution guidelines for this project](/Orbital-Robotics-and-Distributed-Space-Systems)
+
 # Courses
 - ***Orbital Robotics and Distributed Space Systems***
-  > Analysis S/W tool for the planar orbital and attitude/configuration motion of a satellite-robotic manipulator system orbiting Earth
+  > [Analysis S/W tool for the planar orbital and attitude/configuration motion of a satellite-robotic manipulator system orbiting Earth](/Orbital-Robotics-and-Distributed-Space-Systems)
 - ***Advanced Rocket Propulsion and Access to Space***
   > ∆𝑉 required for ascent and insertion into LEO and GEO
   
